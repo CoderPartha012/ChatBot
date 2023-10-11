@@ -44,3 +44,5 @@ The code defines a Flask web application with two routes:
 
 ## Snapshots
 
+![chatbot2](https://github.com/CoderPartha012/ChatBot/assets/104616945/bf44efe8-d656-45a0-a131-0472b45aa977)
+
