@@ -1,6 +1,6 @@
 # ChatBot
 
-# Hww The Code Works?
+# How The Code Works?
 
 ## Libraries and Frameworks Used
 - spacy: The code uses the spaCy library to load the English language model. SpaCy is a natural language processing library that provides tools for text processing and understanding.
@@ -37,3 +37,10 @@ The code defines a Flask web application with two routes:
 
 - When a user submits a question through the web interface, the ask() function is called. It passes the user input to the chatbot_response() function, which performs fuzzy matching to find the best-matching question in the dataset. If the match score is above a certain threshold (51 in this code), the corresponding answer is returned. Otherwise, the function uses spaCy to extract named entities from the user input and returns a response based on that.
 - The Flask application renders an HTML template that displays the user input and the chatbot response on the home page.
+
+
+## Link To Access The Chatbot 
+- https://chatbotcl.azurewebsites.net/
+
+## Snapshots
+
