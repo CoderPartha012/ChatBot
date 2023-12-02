@@ -39,9 +39,6 @@ The code defines a Flask web application with two routes:
 - The Flask application renders an HTML template that displays the user input and the chatbot response on the home page.
 
 
-## Link To Access The Chatbot 
-- https://chatbotcl.azurewebsites.net/
-
 ## Snapshots
 
 ![chatbot2](https://github.com/CoderPartha012/ChatBot/assets/104616945/bf44efe8-d656-45a0-a131-0472b45aa977)
